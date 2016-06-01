@@ -1,0 +1,14 @@
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\AngularJSWebApiEmpty.dll.config
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\AngularJSWebApiEmpty.dll
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\AngularJSWebApiEmpty.pdb
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\Newtonsoft.Json.dll
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\System.Net.Http.Formatting.dll
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\System.Web.Http.dll
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\System.Web.Http.WebHost.dll
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\Newtonsoft.Json.xml
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\System.Net.Http.Formatting.xml
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\System.Web.Http.xml
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\bin\System.Web.Http.WebHost.xml
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\obj\Debug\AngularJSWebApiEmpty.dll
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\obj\Debug\AngularJSWebApiEmpty.pdb
+c:\users\anikolayeva\documents\visual studio 2013\Projects\AwesomeTeamManager\AwesomeTeamManager\obj\Debug\AwesomeTeamManager.csprojResolveAssemblyReference.cache
